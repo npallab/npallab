@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pallab and I'm a Risk Analytics Professional from Bangalore India</h2>
+<h2 align="left">Hi 👋! I am Pallab and I'm a Data Scientist from Bangalore India</h2>
 
 ###
 
